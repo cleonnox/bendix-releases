@@ -1,0 +1,10 @@
+{
+    "schema":  1,
+    "packageName":  "chat.simplex.app",
+    "versionCode":  385,
+    "versionName":  "Bendix 385",
+    "minSdk":  26,
+    "apkUrl":  "https://github.com/cleonnox/bendix-releases/releases/download/v385/bendix-385.apk",
+    "size":  468264468,
+    "sha256":  "42656aa4782c16857561ea25411b78451c2bb35e29ed955f6343f8514f694f4d"
+}
